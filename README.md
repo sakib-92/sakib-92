@@ -1,269 +1,162 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:FFB627&height=180&section=header&text=Sakib%20Sayyed&fontSize=48&fontColor=0D1117&fontAlignY=40&desc=Aspiring%20AI/ML%20Engineer%20%7C%20GenAI%20%C2%B7%20Agentic%20AI%20%C2%B7%20LLMs&descSize=18&descAlignY=65&descColor=0D1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E0A&height=120&section=header" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FF6B35&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=%24+whoami;Sakib+Sayyed+%E2%80%94+AI%2FML+Engineer;%24+building;Agentic+AI+%2B+RAG+%2B+ML+Pipelines;%24+status;open_to_work+%3D+true" alt="Typing SVG" />
-</a>
+<pre>
+┌────────────────────────────────────────────────────┐
+│  ● ● ●   sakib92@portfolio: ~                       │
+├────────────────────────────────────────────────────┤
+│  $ whoami                                           │
+└────────────────────────────────────────────────────┘
+</pre>
 
-![Degree](https://img.shields.io/badge/B.E.-AI%20%26%20Data%20Science-FF6B35?style=flat-square&labelColor=0D1117)
-![University](https://img.shields.io/badge/ISBM%20College%20of%20Engineering-FF6B35?style=flat-square&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Pune%2C%20India-FF6B35?style=flat-square&labelColor=0D1117)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Sakib+Sayyed;AI%2FML+Engineer;Generative+AI+%26+LLM+Developer;Data+Engineering" alt="Typing SVG" />
 
-<a href="mailto:engsakib92@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" /></a>
-<a href="https://linkedin.com/in/sakibali-sayyed/"><img src="https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" /></a>
-<a href="https://github.com/sakib-92"><img src="https://img.shields.io/badge/GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=sakib-92&label=Profile%20Views&color=FF6B35&style=flat-square" />
-<img src="https://img.shields.io/github/followers/sakib-92?label=Followers&style=flat-square&color=FF6B35&labelColor=0D1117" />
-<img src="https://img.shields.io/github/stars/sakib-92?label=Stars&style=flat-square&color=FF6B35&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PUNE%2C_INDIA-0A0E0A?style=for-the-badge&logo=googlemaps&logoColor=00C853&labelColor=0A0E0A&color=1B4332" />
 
 </div>
 
 <br>
 
-## `~/about.sh`
-
-AI/ML Engineer building end-to-end machine learning pipelines, GenAI applications, and explainable AI systems. Focused on turning messy real-world data into deployable, interpretable models — from ETL pipelines to LangChain-powered agents. Currently deepening skills in Agentic AI and Retrieval-Augmented Generation while pursuing a B.E. in Artificial Intelligence and Data Science.
-
-```bash
-ROLE     : Aspiring AI/ML Engineer
-DOMAIN   : EdTech · Business Intelligence · Aviation Safety · GenAI Applications
-STACK    : Python · Scikit-learn · TensorFlow · PyTorch · LangChain · OpenAI API
-OPEN_TO  : AI/ML Engineer, Data Scientist
-```
+<div align="center">
+<img src="https://img.shields.io/badge/LinkedIn-0A0E0A?style=for-the-badge&logo=linkedin&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/Gmail-0A0E0A?style=for-the-badge&logo=gmail&logoColor=00C853&labelColor=0A0E0A" />
+</div>
 
 <br>
 
-## `~/tech-stack --list`
+```bash
+$ cat about_me.txt
+```
+
+- `>` AI/ML Engineer building end-to-end ML pipelines, predictive models, ETL workflows & AI-powered apps
+- `>` Focused on **Generative AI, LLMs, RAG, and NLP** — LangChain + OpenAI API in production-style projects
+- `>` Practicing **Explainable AI** (SHAP, LIME) for auditable, safety-critical model decisions
+- `>` Deploying ML solutions on **Google Cloud Platform**
+- `>` B.E. in Artificial Intelligence & Data Science — ISBM College of Engineering, Pune
+- `>` Currently exploring: Vector Databases, Prompt Engineering, Full-stack AI apps
+
+<br>
+
+```bash
+$ ls tech_stack/
+```
 
 <div align="center">
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=python,html,css,js,java&theme=dark" />
+<img src="https://img.shields.io/badge/Python-0A0E0A?style=flat-square&logo=python&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/JavaScript-0A0E0A?style=flat-square&logo=javascript&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/SQL-0A0E0A?style=flat-square&logo=postgresql&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/HTML5-0A0E0A?style=flat-square&logo=html5&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/CSS3-0A0E0A?style=flat-square&logo=css3&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/Java-0A0E0A?style=flat-square&logo=openjdk&logoColor=00C853&labelColor=0A0E0A" />
 
-**ML / Deep Learning**
+**Machine Learning & Deep Learning**
 <br>
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark" />
+<img src="https://img.shields.io/badge/scikit--learn-0A0E0A?style=flat-square&logo=scikit-learn&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/TensorFlow-0A0E0A?style=flat-square&logo=tensorflow&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/PyTorch-0A0E0A?style=flat-square&logo=pytorch&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/XGBoost-0A0E0A?style=flat-square&labelColor=0A0E0A&color=1B4332" />
 
-**GenAI / Databases**
+**Generative AI & NLP**
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,oracle&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-0A0E0A?style=flat-square&logo=langchain&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/OpenAI_API-0A0E0A?style=flat-square&logo=openai&logoColor=00C853&labelColor=0A0E0A" />
+
+**Databases**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-0A0E0A?style=flat-square&logo=postgresql&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/MongoDB-0A0E0A?style=flat-square&logo=mongodb&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/Oracle-0A0E0A?style=flat-square&logo=oracle&logoColor=00C853&labelColor=0A0E0A" />
 
 **Frameworks & Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=react,fastapi,git,github,vscode,docker,gcp&theme=dark" />
+<img src="https://img.shields.io/badge/React-0A0E0A?style=flat-square&logo=react&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/FastAPI-0A0E0A?style=flat-square&logo=fastapi&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/Docker-0A0E0A?style=flat-square&logo=docker&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/Git-0A0E0A?style=flat-square&logo=git&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/Power_BI-0A0E0A?style=flat-square&logo=powerbi&logoColor=00C853&labelColor=0A0E0A" />
+<img src="https://img.shields.io/badge/Google_Cloud-0A0E0A?style=flat-square&logo=googlecloud&logoColor=00C853&labelColor=0A0E0A" />
 
 </div>
 
 <br>
 
-## `~/specialties --show`
-
-<div align="center">
-
-![GenAI](https://img.shields.io/badge/Generative%20AI-FF6B35?style=for-the-badge&labelColor=0D1117)
-![RAG](https://img.shields.io/badge/RAG%20%26%20Vector%20DBs-FF6B35?style=for-the-badge&labelColor=0D1117)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6B35?style=for-the-badge&labelColor=0D1117)
-![XAI](https://img.shields.io/badge/Explainable%20AI%20(SHAP%2FLIME)-FF6B35?style=for-the-badge&labelColor=0D1117)
-![ML Pipelines](https://img.shields.io/badge/End--to--End%20ML%20Pipelines-FF6B35?style=for-the-badge&labelColor=0D1117)
-
-</div>
-
-<br>
-
-## `~/expertise --table`
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Machine Learning | ●●●●○ | Scikit-learn, XGBoost, Random Forest, feature engineering & selection |
-| Deep Learning | ●●●○○ | TensorFlow, PyTorch, neural network fundamentals |
-| Generative AI / NLP | ●●●●○ | LangChain, OpenAI API, prompt engineering, RAG, vector databases |
-| Explainable AI | ●●●●○ | SHAP, LIME for auditable model decisions |
-| Data Engineering | ●●●○○ | ETL pipelines, JSON processing, SQL, MongoDB |
-| Full-Stack / Deployment | ●●●○○ | React.js, FastAPI, REST APIs, Google Cloud Platform |
-
-<br>
-
-## `~/projects --featured`
-
-<details open>
-<summary><b>🧠 Enterprise AI-Powered Business Intelligence Dashboard</b></summary>
-<br>
-
-Full-stack dashboard integrating sales forecasting, attrition prediction, and customer segmentation with real-time automated alerts via scalable ETL pipelines.
-
-| Stack | Scale | Impact |
-|---|---|---|
-| Python, Scikit-learn, SQL, Pandas, MongoDB, NLP, ETL | 10K+ records, 5+ business modules | 50% reduction in manual analysis effort, sub-second inference latency |
-
-</details>
-
-<details>
-<summary><b>✈️ Explainable AI Aircraft Failure Prediction System</b></summary>
-<br>
-
-Explainable AI system detecting aircraft component failures across multi-class fault categories, with SHAP/LIME interpretability for safety-critical auditability.
-
-| Stack | Scale | Impact |
-|---|---|---|
-| Python, Scikit-learn, Pandas, SHAP, LIME | Multi-class fault classification | 90%+ accuracy, 40% faster fault diagnosis |
-
-</details>
-
-<details>
-<summary><b>🍽️ Generative AI Restaurant Content Generator</b></summary>
-<br>
-
-AI-powered application generating restaurant names and custom menus using LangChain and OpenAI API with advanced prompt engineering.
-
-| Stack | Scale | Impact |
-|---|---|---|
-| LangChain, OpenAI API, Python, NLP, Prompt Engineering | 10+ cuisine types | 60% reduction in manual content creation effort |
-
-</details>
-
-<br>
-
-## `~/experience --log`
-
-**Sep 2025 – Feb 2026 · AI/ML Intern · Thynk Tech India, Pune**
-
-- Developed and deployed 3+ machine learning models using Python, Scikit-learn, and Pandas for an EdTech platform serving 500+ users
-- Performed data preprocessing, feature engineering, and model evaluation on real-world datasets, improving model accuracy by 15%
-- Designed and optimized data pipelines using JSON processing, reducing data handling time by 30%
-- Translated business requirements into AI-driven features, improving recommendation systems for 500+ active users
-- Gained hands-on experience across the end-to-end ML lifecycle including deployment on Google Cloud Platform
-
-`Python` `Scikit-learn` `Pandas` `GCP` `JSON` `Recommendation Systems`
-
-<br>
-
-## `~/achievements --verified`
-
-<div align="center">
-
-| Metric | Result |
-|:---|:---:|
-| Model accuracy improvement (iterative training) | **+15%** |
-| Data pipeline handling time reduction | **-30%** |
-| Aircraft fault classification accuracy | **90%+** |
-| Fault diagnosis time reduction (via SHAP/LIME) | **-40%** |
-| Manual analysis effort reduction (BI dashboard) | **-50%** |
-| Manual content creation effort reduction (GenAI app) | **-60%** |
-
-</div>
-
-<br>
-
-## `~/education --show`
-
-<div align="center">
-
-![Education](https://img.shields.io/badge/B.E.%20Artificial%20Intelligence%20%26%20Data%20Science-ISBM%20College%20of%20Engineering-FF6B35?style=for-the-badge&labelColor=0D1117)
-
-**Certifications**
-
-![Cert1](https://img.shields.io/badge/Python%20for%20ML-Coursera%20(2024)-FF6B35?style=flat-square&labelColor=0D1117)
-![Cert2](https://img.shields.io/badge/Generative%20AI%20Fundamentals-Google%20Cloud%20(2025)-FF6B35?style=flat-square&labelColor=0D1117)
-![Cert3](https://img.shields.io/badge/Python%20Foundation%20Certification-Infosys%20Springboard%20(2025)-FF6B35?style=flat-square&labelColor=0D1117)
-
-</div>
-
-<br>
-
-## `~/github --analytics`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakib-92&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=F5F5F5&ring_color=FFB627" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-92&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FFB627&currStreakLabel=FF6B35&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=F5F5F5" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-92&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=F5F5F5" width="48%"/>
-
-</div>
-
-<br>
-
-## `~/trophies --unlocked`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakib-92&theme=onedark&no-frame=true&no-bg=false&column=7&row=1&title.color=FF6B35&icon.color=FF6B35&text.color=F5F5F5&background=0D1117" />
-
-</div>
-
-<br>
-
-## `~/activity --graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakib-92&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFB627&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<br>
-
-## `~/summary --cards`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakib-92&theme=github_dark" width="95%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakib-92&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakib-92&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakib-92&theme=github_dark" width="32%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakib-92&theme=github_dark" width="95%"/>
-
-</div>
-
-<br>
-
-## `~/snake --animate`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sakib-92/sakib-92/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-<br>
-
-## `~/focus.yaml`
-
-```yaml
-current_focus:
-  learning:
-    - Agentic AI systems
-    - Advanced RAG architectures
-  building:
-    - ML models for real-world deployment
-    - GenAI-powered applications
-  exploring:
-    - LLM orchestration frameworks
-    - Vector database optimization
-  open_to:
-    - AI/ML Engineer
-    - Data Scientist
+```bash
+$ ls featured_projects/ --sort=impact
 ```
 
+<table>
+<tr>
+<td width="100%">
+
+**`01`** [**Enterprise AI-Powered Business Intelligence Dashboard**](https://github.com/sakib92/REPO-LINK-HERE)
+> Full-stack dashboard integrating 5+ business modules — sales forecasting, attrition prediction, customer segmentation — with real-time alerts via scalable ETL pipelines. `50%` less manual analysis effort, `10K+` records, sub-second inference latency.
+`Python` `Scikit-learn` `SQL` `Pandas` `MongoDB` `NLP` `ETL`
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**`02`** [**Explainable AI Aircraft Failure Prediction System**](https://github.com/sakib92/REPO-LINK-HERE)
+> Explainable AI system detecting aircraft component failures at `90%+` classification accuracy across multi-class fault categories. SHAP + LIME interpretability cut fault diagnosis time by `40%`.
+`Python` `Scikit-learn` `Pandas` `SHAP` `LIME`
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**`03`** [**Generative AI Restaurant Content Generator**](https://github.com/sakib92/REPO-LINK-HERE)
+> AI-powered app generating restaurant names and custom menus for `10+` cuisine types using LangChain + OpenAI API with advanced prompt engineering. `60%` less manual content creation effort.
+`LangChain` `OpenAI API` `Python` `NLP` `Prompt Engineering`
+
+</td>
+</tr>
+</table>
+
+> `>` replace `REPO-LINK-HERE` with your actual repo names once pinned.
+
 <br>
 
-## `~/connect --all`
+```bash
+$ fetch --stats
+```
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sakib92&show_icons=true&hide_border=true&bg_color=0A0E0A&title_color=00C853&icon_color=00C853&text_color=E8F5E9&border_color=1B4332" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib92&hide_border=true&background=0A0E0A&stroke=1B4332&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=E8F5E9&currStreakNum=E8F5E9&sideNums=E8F5E9&dates=6B8F71" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib92&layout=compact&hide_border=true&bg_color=0A0E0A&title_color=00C853&text_color=E8F5E9&border_color=1B4332" />
+</div>
+
+<br>
+
+```bash
+$ cat certifications.log
+```
+
+- `[✓]` Python for ML — Coursera (2024)
+- `[✓]` Generative AI Fundamentals — Google Cloud (2025)
+- `[✓]` Python Foundation Certification — Infosys Springboard (2025)
+
+<br>
 
 <div align="center">
 
-<a href="mailto:engsakib92@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" /></a>
-<a href="https://linkedin.com/in/sakibali-sayyed/"><img src="https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" /></a>
-<a href="https://github.com/sakib-92"><img src="https://img.shields.io/badge/GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" /></a>
+```bash
+$ status --open-to-work
+```
+
+<img src="https://img.shields.io/badge/OPEN_TO-AI%2FML_%7C_DATA_SCIENCE_%7C_GENERATIVE_AI-0A0E0A?style=for-the-badge&labelColor=0A0E0A&color=00C853" />
 
 <br><br>
 
-<i>"Turning data into decisions, one model at a time."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB627,100:FF6B35&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E0A&height=60&section=footer" width="100%"/>
 
 </div>
